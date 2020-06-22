@@ -1,2 +1,3 @@
-# Esto es una Prueba
-## soy Jorge Quintana
+# Some of my Files playing around
+## Jorge Quintana 
+### https://www.linkedin.com/in/jorge-quintana-pecchio/
